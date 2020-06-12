@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -35,7 +35,7 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: yuriy-shilenkov-35923a150
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -44,7 +44,7 @@ social_media:
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: TheYuriy821
 
 topics:
   - name: CSS
